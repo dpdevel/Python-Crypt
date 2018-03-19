@@ -1,4 +1,4 @@
-# Python - AES and Blowfish crypt/decrypt
+# Python - AES and Blowfish encrypt-decrypt
 
 #### Requirements
 ```
